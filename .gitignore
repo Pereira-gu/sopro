@@ -1,0 +1,9 @@
+# Lista de permissão: só o site vai para o GitHub.
+# O site antigo e o briefing ficam apenas neste computador.
+/*
+!/.gitignore
+!/index.html
+!/favicon.svg
+!/css/
+!/js/
+!/img/
